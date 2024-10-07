@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eghtombo.github.io/sitemap.html.gz
+Sitemap: https://eghtombo.github.io/app/sitemap.html.gz
+Sitemap: https://eghtombo.github.io/assets/sitemap.html.gz
+Sitemap: https://eghtombo.github.io/css/sitemap.html.gz
+Sitemap: https://eghtombo.github.io/data/sitemap.html.gz
+Sitemap: https://eghtombo.github.io/includes/sitemap.html.gz
+Sitemap: https://eghtombo.github.io/item/sitemap.html.gz
+Sitemap: https://eghtombo.github.io/src/sitemap.html.gz
